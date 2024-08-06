@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PavanaSrikanthMarthi
 - 👀 I’m interested in Gadgets
-- 🌱 I’m currently learning Creative Problem Solving
-- 💞️ I’m looking to collaborate with Myheart
+- 🌱 I’m currently learning Data Analysis, Prompt Engineering
 - 📫 How to reach me srikanthmpavana@gmail.com
 
 <!---
